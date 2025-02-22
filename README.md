@@ -34,35 +34,33 @@ Java Programming: Teaching assistant courses for Advanced Programming at AUT-CE
     - Abstract classes and interfaces.
    
 6. **UML**
-    - UML basics: class diagrams, sequence diagrams.
-    - Introduction to SQLite.
-    - CRUD operations with SQLite.
+    - decoupling and cohesion
+    - UML: class diagrams, sequence diagrams.
    
-7. **Exception and Stream, Try with Resource, Generics**
+8. **Exception and Stream, Try with Resource, Generics**
     - Exception handling: try/catch/finally, custom exceptions.
     - I/O streams: File I/O, `try-with-resources`.
     - Stream API basics.
    
-8. **Threading**
+9. **Threading**
     - Thread basics: `Runnable`, `Thread`, `synchronized`.
     - Thread lifecycle.
     - Simple multithreaded examples.
 
-9. **Socket Programming**
+10. **Socket Programming**
     - Basics of TCP/UDP sockets.
     - Building a simple client-server application.
     - Introduction to Http
 
-10. **JavaFX, SceneBuilder, MVC Pattern**
+11. **JavaFX, SceneBuilder, MVC Pattern**
     - Introduction to JavaFX and FXML.
     - Using SceneBuilder for GUI design.
     - Implementing the MVC pattern in JavaFX.
 
-11. **Parallel Programming, Timeline, Multi-Scene Views**
+12. **Parallel Programming, Timeline, Multi-Scene Views**
     - Advanced concurrency: thread pools, executors.
     - JavaFX timelines and animations.
     - Multi-scene views in JavaFX.
-    - Practice questions for concurrency and JavaFX.
-
+      
 ---
 

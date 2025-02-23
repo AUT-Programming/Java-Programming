@@ -1,6 +1,6 @@
 # Java-Programming
 
-Java Programming: Teaching assistant courses for Advanced Programming at AUT-CE 
+Java Programming: Teaching assistant courses for Advanced Programming at AUT-CE.
 
 # Table of Contents
 

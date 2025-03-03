@@ -1,5 +1,8 @@
 /**
- * Represents a hotel room.
+ * Represents a room in the hotel.
+ * Each room has a room number, type, price, and occupancy status.
+ *
+ * @see RoomType
  */
 public class Room {
     private final int roomNumber;
@@ -7,6 +10,13 @@ public class Room {
     private double currentPrice;
     private boolean occupied;
 
+    /**
+     * Constructs a new room.
+     *
+     * @param roomNumber   The unique room number.
+     * @param roomType     The type of the room (SINGLE, DOUBLE, SUITE).
+     * @param currentPrice The nightly price for the room.
+     */
     public Room(int roomNumber, RoomType roomType, double currentPrice) {
         this.roomNumber = roomNumber;
         this.roomType = roomType;

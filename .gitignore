@@ -28,4 +28,5 @@ replay_pid*
 
 .vscode/
 *.DS_Store
+.DS_Store
 *.iml

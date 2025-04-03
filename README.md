@@ -34,8 +34,8 @@ Java Programming: Teaching assistant courses for Advanced Programming at AUT-CE
     - Abstract classes and interfaces.
    
 6. **UML**
-    - UML diagrams.
     - software engineering, coupling and cohesion.
+    - UML diagrams.
     - Introduction to SQLite.
    
 7. **Exception and Stream, Try with Resource, Generics**

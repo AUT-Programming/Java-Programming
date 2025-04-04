@@ -5,9 +5,9 @@
 class Account {
     private String accountNumber;
     private double balance;
-    private Customer accountHolder;
+    private BankCustomer accountHolder;
 
-    public Account(String accountNumber, Customer accountHolder, double initialBalance) {
+    public Account(String accountNumber, BankCustomer accountHolder, double initialBalance) {
         this.accountNumber = accountNumber;
         this.accountHolder = accountHolder;
         this.balance = initialBalance;
@@ -17,7 +17,7 @@ class Account {
         return accountNumber;
     }
 
-    public Customer getAccountHolder() {
+    public BankCustomer getAccountHolder() {
         return accountHolder;
     }
 
@@ -47,11 +47,11 @@ class Account {
 /**
  * Represents a customer with a unique ID and name.
  */
-class Customer {
+class BankCustomer {
     private String customerId;
     private String name;
 
-    public Customer(String customerId, String name) {
+    public BankCustomer(String customerId, String name) {
         this.customerId = customerId;
         this.name = name;
     }
@@ -127,8 +127,8 @@ class Bank {
     public static void main(String[] args) {
         Bank bank = new Bank();
 
-        Customer customer1 = new Customer("C001", "Alice");
-        Customer customer2 = new Customer("C002", "Bob");
+        BankCustomer customer1 = new BankCustomer("C001", "Alice");
+        BankCustomer customer2 = new BankCustomer("C002", "Bob");
 
         Account account1 = new Account("A1001", customer1, 5000.0);
         Account account2 = new Account("A1002", customer2, 3000.0);

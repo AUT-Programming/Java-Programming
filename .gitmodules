@@ -1,0 +1,3 @@
+[submodule "Project/backend/miniTelegram_server"]
+	path = Project/backend/miniTelegram_server
+	url = https://github.com/AUT-Programming/miniTelegram_server.git

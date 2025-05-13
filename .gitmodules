@@ -1,6 +1,6 @@
 [submodule "Project/backend/miniTelegram_server"]
 	path = Project/backend/miniTelegram_server
 	url = https://github.com/AUT-Programming/miniTelegram_server.git
-[submodule "Project/frontend/--force"]
-	path = Project/frontend/--force
+[submodule "Project/frontend/miniTelegram_client"]
+	path = Project/frontend/miniTelegram_client
 	url = https://github.com/AUT-Programming/minitelegram_client.git

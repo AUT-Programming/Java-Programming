@@ -55,14 +55,8 @@ Java Programming: Teaching assistant courses for Advanced Programming at AUT-CE
 
 10. **JavaFX, SceneBuilder, MVC Pattern**
     - Introduction to JavaFX and FXML.
-    - Using SceneBuilder for GUI design.
+    - JavaFX timelines and concurrency.
     - Implementing the MVC pattern in JavaFX.
-
-11. **Parallel Programming, Timeline, Multi-Scene Views**
-    - Advanced concurrency: thread pools, executors.
-    - JavaFX timelines and animations.
-    - Multi-scene views in JavaFX.
-    - Practice questions for concurrency and JavaFX.
 
 ---
 
